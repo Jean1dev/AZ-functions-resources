@@ -9,4 +9,5 @@ Azures Functions
 - [🔥Azure Functions - Criando uma função Service Bus trigger🔥](https://youtu.be/DUWvoLJQmQs)
 - [🔥Controlando variáveis de ambiente com Azure Functions🔥](https://youtu.be/Y5AKQWjZtJk)
 - [🔥Upload de arquivos para Azure Blob Storage🔥](https://youtu.be/zyVtdkt_Kig)
+- [🔥Automatizando processos com Azure CLI🔥](https://youtu.be/wU7xb3rAkWc)
 <!-- YOUTUBE:END -->
